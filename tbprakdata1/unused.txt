@@ -1,0 +1,34 @@
+
+    return 0;
+    // int id = 0;
+    // ofstream myfile;
+
+    // myfile.open("data.txt");
+
+    // while (id < 5)
+    // {
+    //     string name;
+    //     cout << "Type your name: ";
+    //     cin >> name;
+
+    //     myfile << name << "\n";
+    //     id++;
+    // }
+    // myfile.close();
+
+
+    // ifstream dataFile ("data.txt");
+    // string line;
+
+    // if (dataFile.is_open())
+    // {
+    //     while(getline(dataFile, line)) {
+    //         cout << line << "\n";
+    //     }
+    //     dataFile.close();
+    // }
+
+
+    // myfile.close();
+
+    // return 0;
